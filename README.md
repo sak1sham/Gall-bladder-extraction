@@ -15,3 +15,6 @@
 6. Finding the area of each contour
 
 7. Getting the contour with maximum area
+
+___________________________________________
+Final accuracy metrics: 74.6 % IOU
